@@ -1,0 +1,11 @@
+#QR Code Generator
+
+This project allows users to easily generate QR codes from any text or URL input. It uses Python and the qrcode library to create the QR code and provides an intuitive interface for users to input data and download the generated QR code image.
+
+###Features:
+
+* Generate QR codes from text or URLs
+* Save the QR code as an image
+* Simple and easy-to-use interface
+* Feel free to clone or contribute to the project!
+
